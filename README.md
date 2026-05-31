@@ -1,5 +1,4 @@
-# Useful websites for devs
-
+# Useful websites 
 A categorized collection of essential tools for development, design, planning, and productivity.
 
 ---
